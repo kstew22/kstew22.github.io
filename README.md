@@ -3,7 +3,19 @@ KaylaStewart.github.io
 
 Your Public Site
 
-To get started, open the index.html file to find instructions and examples. You'll start your editing there!
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+    Kayla's Public Website
+    </title>
+  </head>
+  
+  <body>
+  <h1>Welcome to my site!</h1>
+  
+ 
+
 
 <h2 id="Exercise1">Exercise 1</h2>
 <ol>
@@ -20,3 +32,14 @@ To get started, open the index.html file to find instructions and examples. You'
   <li></li><p><font face="cursive,serif" color="#ff9900" size="4"<this is my font</p>
   
 </ol>
+
+<<li><b>Bold</b> This is my text</li>
+<<li>My link here:http://www.nike.com/us/en_us/</li>
+
+
+
+
+<br>The End.
+  </body>
+</html>
+
