@@ -43,3 +43,10 @@ Your Public Site
   </body>
 </html>
 
+
+<h2 id="Exercise1">Exercise 1</h2>
+<ol>
+<li>Your bolded text here:**This is my bold text**
+<li>Your headline here: #This is my headline 
+<li>Your image here ![Alt text]  (http://www.goldendoodle.net/wp-content/uploads/2011/04/miniature-golden-retriever-puppies-for-sale01.jpg)
+
